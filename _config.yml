@@ -1,6 +1,6 @@
 # Site settings
 title: SecOps 360
-email: sysadmin@secops360.com
+email: info@secops360.com
 url: https://www.secops360.com
 description: "
 Cyber Defense Company for Zero Trust Networks
@@ -14,7 +14,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: SecOps360y
+footer: SecOps360 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
