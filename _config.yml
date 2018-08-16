@@ -1,0 +1,26 @@
+# Site settings
+title: SecOps 360
+email: sysadmin@secops360.com
+url: https://www.secops360.com
+description: "
+Cyber Defense Company for Zero Trust Networks
+<br><br>
+SecOps360 develops new generation situational awareness tools for Zero Trust Networks. We develop and integrate with best of breed software products available on the net today...
+."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: SecOps360y
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/linuxsecops
+
+# Build settings
+markdown: kramdown
+permalink: pretty
